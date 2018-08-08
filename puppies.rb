@@ -15,7 +15,7 @@ end
 
 def less_puppies(num_puppies)
   if num_puppies > 0 
-    return "Slow down! No more puppies."
+    return "Get back to your animal goals!"
   else
     return"Good job, Rachel!"
   end 
